@@ -1,0 +1,1 @@
+CREATE TYPE AS ENUM role_type("ADMIN","CUSTOMER");
